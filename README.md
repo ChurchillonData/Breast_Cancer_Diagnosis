@@ -58,5 +58,9 @@ This project presents a machine learning solution for classifying breast cancer 
 - Address class imbalance using SMOTE or class weights  
 - Deploy model as a Flask web API for real-time diagnosis
 
+## Technologies
+- Jupyter Notebook
+  
+
 
 
